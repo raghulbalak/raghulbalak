@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raghulbalak
-- 👀 I’m interested in learning systems
+- 👀 I’m interested in learning how systems work
 - 🌱 I’m currently learning Data Structures
 - 💞️ I’m looking to collaborate on Java, Angular, Spring Boot based projects
 - 📫 How to reach me raghul.balak27@gmail.com
